@@ -10,7 +10,7 @@ pytest-logger==0.5.1
 pytest-xdist==1.29.0
 requests==2.22.0
 requests-oauthlib==1.2.0
-urllib3==1.25.3
+urllib3==1.25.8
 xlrd==1.2.0
 XlsxWriter==1.1.9
 zipp==0.5.1
